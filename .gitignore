@@ -1,0 +1,18 @@
+#ignora la configuracion de vscode
+.vscode/
+
+#ignora archivos de datos privados
+.csv
+.ods
+
+#archivos temporales de python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#ignora archivos de entorno virtual
+env/
+venv/
+ENV/
+.venv/
