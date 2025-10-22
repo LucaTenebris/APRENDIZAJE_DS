@@ -16,3 +16,7 @@ env/
 venv/
 ENV/
 .venv/
+
+#carpetas de datos sensibles
+data/raw/
+data/processed/
